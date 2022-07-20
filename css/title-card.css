@@ -1,0 +1,8 @@
+.title-card {
+    color: var(--neonGreen);
+    font-weight: 500;
+    letter-spacing: 0.25rem;
+    margin-top: 3rem;
+    font-size: .8rem;
+    font-weight: 800;
+}

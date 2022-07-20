@@ -1,0 +1,32 @@
+@media screen and (max-width: 550px) {
+    .card-container {
+        max-width: 21.4rem;
+        min-height: 19.8rem;
+        border-radius: 3%;
+    }
+
+    .title-card {
+        margin-top: 2.5rem;
+        font-size: .7rem;
+        letter-spacing: 0.21rem;
+        font-weight: 600;
+    }
+
+    .text-card {
+        min-height: 9rem;
+        margin-top: 1.56rem;
+        padding: 0 1rem 0 1rem;
+        font-size: 1.5rem;
+    }
+
+    .line-card {
+        margin-top: .7rem;
+        background-image: url('../images/pattern-divider-mobile.svg');
+    }
+
+    .button-card {
+        top: 17.78rem;
+
+    }
+
+}

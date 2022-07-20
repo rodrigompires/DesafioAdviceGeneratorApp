@@ -1,0 +1,9 @@
+.text-card {
+    color: var(--lightCyan);
+    min-height: 9rem;
+    margin-top: 1.56rem;
+    padding: 0 2.50rem 0 2.50rem;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 800;
+}

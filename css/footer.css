@@ -1,0 +1,13 @@
+.attribution {
+    margin-top: 5rem;
+    color: var(--lightCyan);
+    text-align: center;
+    width: auto;
+    font-size: .8rem;
+    
+}
+
+.attribution a {
+    color: var(--neonGreen);
+    text-decoration: none;
+}

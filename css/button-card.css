@@ -1,0 +1,20 @@
+.button-card {
+    width: 4.06rem;
+    height: 4.06rem;
+    background-color: var(--neonGreen);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 18.75rem;
+    cursor: pointer;
+    transition: .1s;
+}
+
+.button-card:hover {
+    box-shadow: 0px 0px 20px var(--neonGreen);
+    transform: rotate(45deg);
+}
+
+

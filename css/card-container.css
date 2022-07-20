@@ -1,0 +1,14 @@
+.card-container {
+    width: 33.75rem;
+    min-height: 20.44rem;
+    background-color: var(--darkGravishBlue);
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    border-radius: 4%;
+
+    position: relative;
+
+}
+
